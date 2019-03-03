@@ -1,1 +1,1 @@
-# Student-Admissions-in-Keras
+# Student Admissions in Keras
